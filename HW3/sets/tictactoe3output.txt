@@ -1,0 +1,4 @@
+>>> print(hw3.SolveGame("Minimax", "tictactoe3.txt", "MAX"))
+(0, (0, 2), ['OXOXOX OX', 'OXOXOXOOX', 'OXO OXXOX', 'OXOOOXXOX'])
+>>> print(hw3.SolveGame("AlphaBeta", "tictactoe3.txt", "MAX"))
+(0, (0, 2), ['OXOXOX OX', 'OXOXOXOOX', 'OXO OXXOX', 'OXOOOXXOX'])

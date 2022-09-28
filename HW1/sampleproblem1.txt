@@ -1,0 +1,10 @@
+izmir
+ankara
+ankara afyon 300
+ankara konya 5
+afyon eskisehir 150
+eskisehir usak 45
+ankara eskisehir 150
+manisa usak 250
+izmir manisa 125
+manisa afyon 150

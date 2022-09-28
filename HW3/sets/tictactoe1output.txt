@@ -1,0 +1,5 @@
+>>> import hw3solutioneXXXXXXX as hw3
+>>> print(hw3.SolveGame("Minimax", "tictactoe1.txt", "MAX"))
+(5.0, (1, 1), ['XOXO OX  ', 'XOXOOOX  ', 'XOXO OXO ', 'XOXOXOXO ', 'XOXO OXOX', 'XOXOOOXOX', 'XOXO OX O', 'XOXOXOX O', 'XOXO OXXO', 'XOXOOOXXO', ' OXOXOX  ', ' OXO OXX ', 'OOXO OXX ', 'OOXOXOXX ', 'OOXO OXXX', ' OXOOOXX ', ' OXO OXXO', 'XOXO OXXO', 'XOXOOOXXO', ' OXOXOXXO', ' OXO OX X', 'OOXO OX X', 'OOXOXOX X', 'OOXO OXXX', ' OXOOOX X', ' OXO OXOX', 'XOXO OXOX', 'XOXOOOXOX', ' OXOXOXOX'])
+>>> print(hw3.SolveGame("AlphaBeta", "tictactoe1.txt", "MAX"))
+(5.0, (1, 1), ['XOXO OX  ', 'XOXOOOX  ', 'XOXO OXO ', 'XOXOXOXO ', 'XOXO OX O', 'XOXOXOX O', ' OXOXOX  ', ' OXO OXX ', 'OOXO OXX ', 'OOXOXOXX ', 'OOXO OXXX', ' OXO OX X', 'OOXO OX X', 'OOXOXOX X', 'OOXO OXXX'])

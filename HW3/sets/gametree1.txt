@@ -1,0 +1,25 @@
+s1
+s1 s2 a
+s1 s3 b
+s1 s4 c
+s1 s5 d
+s2 s6 a1
+s2 s7 a2
+s2 s8 a3
+s3 s9 b1
+s3 s10 b2
+s3 s11 b3
+s4 s12 c1
+s4 s13 c2
+s5 s14 d1
+s5 s15 d2
+s6:10
+s7:15
+s8:20
+s9:7
+s10:3
+s11:1
+s12:5
+s13:9
+s14:4
+s15:7

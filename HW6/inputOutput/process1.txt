@@ -1,0 +1,10 @@
+[states]
+state1|state2
+[start probabilities]
+state1:0.50|state2:0.50
+[transition probabilities]
+state1-state1:0.20|state1-state2:0.80|state2-state1:0.30|state2-state2:0.70
+[observation probabilities]
+state1-obs1:0.75|state1-obs2:0.25|state2-obs1:0.40|state2-obs2:0.60
+[observations]
+obs1|obs2|obs2|obs2|obs1

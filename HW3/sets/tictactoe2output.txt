@@ -1,0 +1,4 @@
+>>> print(hw3.SolveGame("Minimax", "tictactoe2.txt", "MAX"))
+(-5, (1, 0), ['OXO X O X', 'OXOOX O X', 'OXO XOO X', 'OXOXXOO X', 'OXOXXOOOX', 'OXO XOOXX', 'OXO X OOX', 'OXOXX OOX', 'OXOXXOOOX', 'OXO XXOOX', 'OXOOXXOOX', 'O OXX O X', 'OOOXX O X', 'O OXXOO X', 'OXOXXOO X', 'OXOXXOOOX', 'O OXXOOXX', 'OOOXXOOXX', 'O OXX OOX', 'OXOXX OOX', 'OXOXXOOOX', 'O OXXXOOX', 'O O XXO X', 'OOO XXO X', 'O OOXXO X', 'O O XXOOX', 'OXO XXOOX', 'OXOOXXOOX', 'O OXXXOOX', 'O O X OXX', 'OOO X OXX', 'O OOX OXX', 'O O XOOXX', 'OXO XOOXX', 'O OXXOOXX', 'OOOXXOOXX'])
+>>> print(hw3.SolveGame("AlphaBeta", "tictactoe2.txt", "MAX"))
+(-5, (1, 0), ['OXO X O X', 'OXOOX O X', 'OXO XOO X', 'OXOXXOO X', 'OXOXXOOOX', 'OXO X OOX', 'OXOXX OOX', 'OXOXXOOOX', 'O OXX O X', 'OOOXX O X', 'O O XXO X', 'OOO XXO X', 'O O X OXX', 'OOO X OXX'])

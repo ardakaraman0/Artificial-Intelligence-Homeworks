@@ -1,0 +1,22 @@
+[environment]
+5 11
+[obstacle states]
+(0,3)|(1,3)|(3,3)|(4,3)|(0,6)|(4,6)
+[goal states]
+(0,10):5.0|(4,10):10.0|(2,6):-30.0
+[start state]
+(0,0)
+[reward]
+-0.5
+[action noise]
+0.8
+0.1
+0.1
+[learning rate]
+0.1
+[gamma]
+0.9999999999
+[epsilon]
+0.1
+[episode count]
+10000

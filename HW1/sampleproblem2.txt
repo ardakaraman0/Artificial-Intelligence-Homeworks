@@ -1,0 +1,16 @@
+phone2
+phone3
+phone1 station1 30
+station1 router2 4
+station1 router1 2
+station1 router1 6
+station1 router3 3
+station1 phone2 20
+router2 router1 15
+router2 router1 18
+router1 station2 25
+router1 router3 20
+router3 station2 10
+station3 station2 5
+station2 phone3 4
+station3 station2 5
